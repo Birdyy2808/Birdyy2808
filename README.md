@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hi there, I'm Vaibhav Singh!
 
-<!--
-**Birdyy2808/Birdyy2808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate software developer and DevOps engineer with 4 years of experience. I specialize in building scalable applications, automating development pipelines, and managing cloud infrastructure.
+🚀 Currently focused on:
 
-Here are some ideas to get you started:
+    Backend development with Java and Spring Boot.
+    Automating workflows and improving CI/CD pipelines using Jenkins, GitHub Actions, and Docker.
+    Working with cloud platforms like Azure and AWS.
+    Building efficient and secure infrastructure as code solutions using Terraform.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m constantly learning about:
+
+    Kubernetes for container orchestration.
+    Microservices architecture and how to deploy them at scale.
+    Improving DevOps practices and automating everything!
+
+💬 Let’s connect!
+
+Feel free to check out my repositories and contribute to my projects. I’m always open to collaboration, new ideas, and learning from others. Let’s work together to build better software!
