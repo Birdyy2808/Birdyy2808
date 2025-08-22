@@ -2,7 +2,7 @@
 
 I’m a passionate software developer and DevOps engineer with 4 years of experience. I specialize in building scalable applications, automating development pipelines, and managing cloud infrastructure.
 🚀 Currently focused on:
-    Currently learning **backend development** with **Python** and **Django**, focusing on building RESTful APIs and web applications.
+    Learning **backend development** with **Python** and **Django**, focusing on building RESTful APIs and web applications.
     Automating workflows and improving CI/CD pipelines using Jenkins, GitHub Actions, and Docker.
     Working with cloud platforms like Azure and AWS.
     Building efficient and secure infrastructure as code solutions using Terraform.
